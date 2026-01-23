@@ -1,16 +1,52 @@
-## Hi there 👋
+# Abdullah Abtahi
+### Data Science • Product Strategy • Digital Systems
 
-<!--
-**abdullahabtahi/abdullahabtahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **The Executive Summary:** I am a Marketing Specialist and Founder transitioning into Engineering and Data Science. I build systems that bridge the gap between **business logic** (Consulting/Strategy) and **technical implementation** (Data/Code).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 The Philosophy
+My work is defined by the intersection of three methodologies:
+1.  **Consulting Precision:** Applying MECE logic and the Pyramid Principle to break down complex problems.
+2.  **Startup Agility:** Leveraging YC-style iteration and lean validation.
+3.  **Human-Centered Design:** Ensuring every system and algorithm solves a genuine human need with empathy.
+
+I don't just "write code." I design workflows, validate assumptions, and build tools that drive business outcomes.
+
+---
+
+### 🛠 The Technical Stack
+I am currently rigorous in **First Principles Computer Science** and **Applied Mathematics**.
+
+| Domain | Languages & Tools |
+| :--- | :--- |
+| **Core Engineering** | **C** (Memory management, Pointers), **Python** (Algorithmic Logic) |
+| **Data Science** | **Pandas, NumPy**, Scikit-Learn, SQL (Relational Design) |
+| **Web & Product** | HTML5, CSS3, JavaScript, Figma (UI/UX) |
+| **Current Rigor** | **Harvard CS50x** (CS Fundamentals), **Imperial College London** (Mathematics for ML) |
+
+---
+
+### 🔭 Current Focus: The Pivot
+I am currently dedicating my time to mastering the mathematical and low-level foundations of intelligent systems.
+
+* **MSc Data Science:** Formalizing the transition from business to technical leadership.
+* **Harvard CS50x:** Building a robust mental model of memory, algorithms, and data structures ($O(n)$ analysis, Hash Tables, Tries).
+* **Mathematics for ML (Imperial):** Deepening proficiency in Linear Algebra and Multivariate Calculus to understand the "black box" of model training.
+
+---
+
+### 📂 Selected Projects
+* **[Project Name 1]:** A Flask-based web application that solves [Specific Problem]. *Focus: Full-Stack logic & UX.*
+* **[Project Name 2]:** Data analysis pipeline analyzing [Topic] using Pandas. *Focus: Data cleaning & Insight generation.*
+* **Globalsors Digital Transformation:** Led the digital overhaul for an industrial trading firm, implementing analytics and modern web architecture.
+
+---
+
+### 📬 Connect
+I value clarity, structure, and brutally honest feedback.
+* **LinkedIn:** https://www.linkedin.com/in/abdullahabtahi
+* **Email:** abdullah.abtahi@globalsors.com
+* **Location:** Dubai, UAE
+
+> *"Complexity is a sign of a lack of understanding. Simplicity is the trademark of genius."*
