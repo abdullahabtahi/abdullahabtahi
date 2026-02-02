@@ -20,6 +20,7 @@ My work is defined by the intersection of three methodologies:
 2.  **Startup Agility:** Leveraging YC-style iteration and lean validation.
 3.  **Human-Centered Design:** Ensuring every system and algorithm solves a genuine human need with empathy.
 
+
 ![Education](images/Education.png)
 
 ---
