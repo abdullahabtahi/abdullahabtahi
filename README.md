@@ -1,7 +1,7 @@
 # Abdullah Abtahi
 ### Data Science • Product Strategy • Digital Systems
 
-> **The Executive Summary:** I am a Marketing Specialist and Founder transitioning into Engineering and Data Science. I build systems that bridge the gap between **business logic** (Consulting/Strategy) and **technical implementation** (Data/Code).
+> Coming from a non‑STEM business degree, I’m deliberately pivoting into data science and intelligent systems. I build things that translate messy business problems into clear, testable code and experiments..
 
 ---
 
