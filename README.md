@@ -15,7 +15,6 @@ Instead of treating “tech” as a black box, I decided to open it. I now spend
 
 My goal: to be the person who advocates for human-centered AI for social impact and make the world a better place
 
-How I Think
 My work is defined by the intersection of three methodologies:
 1.  **Consulting Precision:** Applying MECE logic and the Pyramid Principle to break down complex problems.
 2.  **Startup Agility:** Leveraging YC-style iteration and lean validation.
