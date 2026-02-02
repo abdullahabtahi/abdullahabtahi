@@ -15,7 +15,7 @@ Instead of treating “tech” as a black box, I decided to open it. I now spend
 
 My goal: to be the person who advocates for human-centered AI for social impact and make the world a better place
 
-![Education](images/education.png)
+![Education](images/Education.png)
 
 ### 🧩 How I Think
 My work is defined by the intersection of three methodologies:
