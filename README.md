@@ -7,7 +7,7 @@
 
 ---
 
-## From Business to Data & AI
+### From Business to Data & AI
 
 Early in my career, I started in marketing and design. Over time, I kept hitting the same wall: decisions were slow, data was noisy, and our systems couldn’t keep up.
 
@@ -17,7 +17,9 @@ My goal: to be the person who advocates for human-centered AI for social impact 
 
 ![Education](images/Education.png)
 
-### 🧩 How I Think
+---
+
+### How I Think
 My work is defined by the intersection of three methodologies:
 1.  **Consulting Precision:** Applying MECE logic and the Pyramid Principle to break down complex problems.
 2.  **Startup Agility:** Leveraging YC-style iteration and lean validation.
@@ -27,38 +29,16 @@ I don't just "write code." I design workflows, validate assumptions, and build t
 
 ---
 
-### 🛠 The Technical Stack
-I am currently rigorous in **First Principles Computer Science** and **Applied Mathematics**.
-
-| Domain | Languages & Tools |
-| :--- | :--- |
-| **Core Engineering** | **C** (Memory management, Pointers), **Python** (Algorithmic Logic) |
-| **Data Science** | **Pandas, NumPy**, Scikit-Learn, SQL (Relational Design) |
-| **Web & Product** | HTML5, CSS3, JavaScript, Figma (UI/UX) |
-| **Current Rigor** | **Harvard CS50x** (CS Fundamentals), **Imperial College London** (Mathematics for ML) |
+### Selected Projects
+* **[Power Plant Energy Output Prediction](https://github.com/abdullahabtahi/Power-Plant-Energy-Output-Prediction):** Predicting hourly net energy output of a Combined Cycle Power Plant using time-aware splits and tree-based ensemble models. *Focus: Data Science & Machine Learning.*
+* **[Globalsors Web Design & Development](https://www.globalsors.com/):** Designed and developed a modern, responsive website for a global consulting and industrial supplies. *Focus: Web Design & Development.*
 
 ---
 
-### 🔭 Current Focus: The Pivot
-I am currently dedicating my time to mastering the mathematical and low-level foundations of intelligent systems.
-
-* **MSc Data Science:** Formalizing the transition from business to technical leadership.
-* **Harvard CS50x:** Building a robust mental model of memory, algorithms, and data structures ($O(n)$ analysis, Hash Tables, Tries).
-* **Mathematics for ML (Imperial):** Deepening proficiency in Linear Algebra and Multivariate Calculus to understand the "black box" of model training.
-
----
-
-### 📂 Selected Projects
-* **[Project Name 1]:** A Flask-based web application that solves [Specific Problem]. *Focus: Full-Stack logic & UX.*
-* **[Project Name 2]:** Data analysis pipeline analyzing [Topic] using Pandas. *Focus: Data cleaning & Insight generation.*
-* **Globalsors Digital Transformation:** Led the digital overhaul for an industrial trading firm, implementing analytics and modern web architecture.
-
----
-
-### 📬 Connect
+### Connect
 I value clarity, structure, and brutally honest feedback.
 * **LinkedIn:** https://www.linkedin.com/in/abdullahabtahi
 * **Email:** abdullah.abtahi@globalsors.com
 * **Location:** Dubai, UAE
 
-> *"Complexity is a sign of a lack of understanding. Simplicity is the trademark of genius."*
+> *"The biggest quest to learn anything is curiosity."*
