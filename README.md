@@ -3,7 +3,9 @@
 
 > Coming from a non‑STEM business degree, I’m deliberately pivoting into data science and intelligent systems. I build things that translate messy business problems into clear, testable code and experiments.
 
-![Intro](images/intro.png)
+<p align="center">
+  <img src="images/intro.png" alt="Intro" width="500">
+</p>
 
 ---
 
@@ -21,7 +23,9 @@ My work is defined by the intersection of three methodologies:
 3.  **Human-Centered Design:** Ensuring every system and algorithm solves a genuine human need with empathy.
 
 
-![Education](images/Education.png)
+<p align="center">
+  <img src="images/Education.png" alt="Education" width="500">
+</p>
 
 ---
 
