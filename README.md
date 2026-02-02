@@ -15,14 +15,15 @@ Instead of treating “tech” as a black box, I decided to open it. I now spend
 
 My goal: to be the person who advocates for human-centered AI for social impact and make the world a better place
 
-My work is defined by the intersection of three methodologies:
-1.  **Consulting Precision:** Applying MECE logic and the Pyramid Principle to break down complex problems.
-2.  **Startup Agility:** Leveraging YC-style iteration and lean validation.
-3.  **Human-Centered Design:** Ensuring every system and algorithm solves a genuine human need with empathy.
 
 
 <img src="images/Education.png" alt="Education" width="500">
 
+
+My work is defined by the intersection of three methodologies:
+1.  **Consulting Precision:** Applying MECE logic and the Pyramid Principle to break down complex problems.
+2.  **Startup Agility:** Leveraging YC-style iteration and lean validation.
+3.  **Human-Centered Design:** Ensuring every system and algorithm solves a genuine human need with empathy.
 
 ---
 
