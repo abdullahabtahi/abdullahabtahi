@@ -3,9 +3,21 @@
 
 > Coming from a non‑STEM business degree, I’m deliberately pivoting into data science and intelligent systems. I build things that translate messy business problems into clear, testable code and experiments.
 
+![Intro](images/intro.png)
+
 ---
 
-### 🧩 The Philosophy
+## From Business to Data & AI
+
+Early in my career, I started in marketing and design. Over time, I kept hitting the same wall: decisions were slow, data was noisy, and our systems couldn’t keep up.
+
+Instead of treating “tech” as a black box, I decided to open it. I now spend ~25 hours a week on rigorous self‑study as a bridge into a future **MSc in Data Science or AI**, focusing on first‑principles computer science and the mathematics of learning systems.
+
+My goal: to be the person who advocates for human-centered AI for social impact and make the world a better place
+
+![Education](images/education.png)
+
+### 🧩 How I Think
 My work is defined by the intersection of three methodologies:
 1.  **Consulting Precision:** Applying MECE logic and the Pyramid Principle to break down complex problems.
 2.  **Startup Agility:** Leveraging YC-style iteration and lean validation.
